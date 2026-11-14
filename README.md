@@ -1,4 +1,4 @@
-### Aster (Astel-isk)
+### Aster (Astelisk)
 
 CS undergrad · self-studying algebra
 
